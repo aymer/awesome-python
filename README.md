@@ -461,6 +461,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [web.py](http://webpy.org/) - A web framework for Python that is as simple as it is powerful.
 * [web2py](http://www.web2py.com) - A full stack web framework and platform focused in the ease of use.
 * [Tornado](http://www.tornadoweb.org/en/latest/) - A Web framework and asynchronous networking library.
+* [Morepath](https://github.com/morepath/morepath) - A fast, flexible and expressive web framework.
 
 ## Serverless Frameworks
 
